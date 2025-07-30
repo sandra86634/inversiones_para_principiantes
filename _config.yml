@@ -1,0 +1,5 @@
+title: Mi Blog en GitHub Pages
+description: Primer blog hecho con Jekyll y GitHub Pages
+theme: minima
+plugins:
+  - jekyll-feed
